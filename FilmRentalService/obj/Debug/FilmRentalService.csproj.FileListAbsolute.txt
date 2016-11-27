@@ -1,0 +1,16 @@
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\bin\Debug\FilmRentalService.exe.config
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\bin\Debug\FilmRentalService.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\bin\Debug\FilmRentalService.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.GenreFinder.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.FilmNameFinder.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.FilmPriceFinder.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.Resources.FilmAdder.resources
+C:\Users\1\documents\visual studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.FilmDelete.resources
+C:\Users\1\documents\visual studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.Menu.resources
+C:\Users\1\documents\visual studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.DisplayFromFile.resources
+C:\Users\1\documents\visual studio 2012\Projects\HelloWorldCsharp\FilmRentalService\obj\Debug\FilmRentalService.StatisticsPerDay.resources

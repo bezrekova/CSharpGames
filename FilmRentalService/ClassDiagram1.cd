@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="FilmRentalService.FilmDelete" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAABAAAACAAAASAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>FilmDelete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.FilmNameFinder" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>FilmNameFinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.FilmPriceFinder" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAEABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>FilmPriceFinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.Menu" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CZAAIQgAATAAAAACAACAQAACCAGIIAAABGSEkCAABAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.DisplayFromFile">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQQACAAABAIAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DisplayFromFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.GenreFinder">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAASAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>GenreFinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.Main2" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.Film" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAAAAAIAAAQCAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.Rental" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABkAAAEAAgAAEAAAAAABAAAAAAAAABQQAAwAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIBEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.Resources.FilmAdder" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAESAAAACAAACACABSIAAIAAAAMEBAAAAAAgA=</HashCode>
+      <FileName>Resources\FilmAdder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmRentalService.IOFile" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAAEAAAQQAAAAAIEAAAAAAQACEAQAAAAAAAAA=</HashCode>
+      <FileName>IOFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

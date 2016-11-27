@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRental xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rental>
+    <film>Soap</film>
+    <date>2016-10-01T00:00:00</date>
+    <pricePerday>12</pricePerday>
+    <clientID>Sokolov</clientID>
+  </Rental>
+  <Rental>
+    <film>Twilight</film>
+    <date>2016-10-02T00:00:00</date>
+    <pricePerday>20</pricePerday>
+    <clientID>Targarien</clientID>
+  </Rental>
+  <Rental>
+    <film>New Moon</film>
+    <date>2016-10-03T00:00:00</date>
+    <pricePerday>21</pricePerday>
+    <clientID>Lannister</clientID>
+  </Rental>
+  <Rental>
+    <film>Eclipse</film>
+    <date>2016-10-24T00:00:00</date>
+    <pricePerday>8</pricePerday>
+    <clientID>Snow</clientID>
+  </Rental>
+</ArrayOfRental>
